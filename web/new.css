@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    height: 100vh;
+    text-align: center;
+}
+
+.a {
+    background-color: blue;
+    height: 10vh;
+    font-size: 50px;
+}
+
+.b {
+    background-color: aqua;
+    height: 10vh;
+    font-size: 20px;
+    text-align: right;
+}
+
+.c {
+    background-color: rgb(177, 160, 192);
+    width: 25%;
+    float: left;
+    height: 70vh;
+}
+
+.d {
+    background-color: peru;
+    width: 75%;
+    float: right;
+    height: 70vh;
+}
+
+section {
+    background-color: black;
+    height: 70vh;
+    width: 100%;
+}

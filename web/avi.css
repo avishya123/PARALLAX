@@ -1,0 +1,17 @@
+
+ *{ margin: 0;
+    padding: 0;}
+body{ text-align: center;}
+.a{
+    background-color: blue;height: 30px; width: 100%;
+}
+.b{
+   background-color: red;height: 30px;width: 100%;
+}
+.c{
+    background-color:purple;height: 567px;float: left;
+    width: 30%;
+}
+.d{background-color: aqua;height: 567px;float: right;
+width: 70%;}
+#A{ width: 100%;background-color: brown;height: 567px;}
